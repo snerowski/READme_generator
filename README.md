@@ -22,7 +22,7 @@ after the user has installed the app, all they need to do is run "node index.js"
 ![Screenshot 2023-03-07 000234](https://user-images.githubusercontent.com/118015679/223328698-73da1445-19d1-4eb5-b67c-c6ad14aae126.png)
 ![Screenshot 2023-03-07 000250](https://user-images.githubusercontent.com/118015679/223328707-8945097f-8b7c-47b6-8ddb-95ef239c6e11.png)
 
-link to video demonstrating usage: chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/31a7bf12-fd9b-42d6-y539-891f18875b3e
+link to video demonstrating usage: https://drive.google.com/file/d/1dwVmedYYnirll0PJVvQ_wYv0VS8Rz9Lu/view
 
 
 ## Contributing
